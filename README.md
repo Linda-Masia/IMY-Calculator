@@ -40,7 +40,7 @@ Follow these steps to set up the GitHub repository for this project:
 ### **2. Clone the Repository Locally**
 Run the following command in your terminal:
 ```bash
-git clone https://github.com/YOUR-USERNAME/hexadecimal-calculator.git
+git clone https://github.com/YOUR-USERNAME/IMY-Calculator.git
 ```
 Replace `YOUR-USERNAME` with your actual GitHub username.
 
@@ -52,7 +52,7 @@ git init
 
 ### **4. Set Up the Remote Repository**
 ```bash
-git remote add origin https://github.com/YOUR-USERNAME/hexadecimal-calculator.git
+git remote add origin https://github.com/YOUR-USERNAME/IMY-Calculator.git
 ```
 
 ### **5. Add and Commit Initial Files**
