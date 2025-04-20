@@ -1,3 +1,5 @@
+name: calculator
+
 on:
   push:
     branches: [develop]
