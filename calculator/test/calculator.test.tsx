@@ -11,5 +11,6 @@ describe("Calculator Component", () => {
     expect(screen.getByRole("button", { name: "A" })).toBeInTheDocument();
     expect(screen.getByRole("button", { name: "C" })).toBeInTheDocument();
     expect(screen.getByRole("button", { name: "=" })).toBeInTheDocument();
+    expect(screen.getByRole("button", { name: "/" })).toBeInTheDocument();
   });
 });
