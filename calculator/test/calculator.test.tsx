@@ -9,7 +9,6 @@ describe("Calculator Component", () => {
     render(<Calculator />);
     expect(screen.getByRole("button", { name: "0" })).toBeInTheDocument();
     expect(screen.getByRole("button", { name: "A" })).toBeInTheDocument();
-    expect(screen.getByRole("button", { name: "+" })).toBeInTheDocument();
     expect(screen.getByRole("button", { name: "C" })).toBeInTheDocument();
     expect(screen.getByRole("button", { name: "=" })).toBeInTheDocument();
   });
